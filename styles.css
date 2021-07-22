@@ -2,10 +2,10 @@
 
 body {
 font-family: sans-serif;
-margin: 40px auto;
-max-width: 650px;
-font-size: 18px;
-padding: 0 10px;
+margin:2.5em auto;
+max-width:40.635em;
+font-size: 1.125em;
+padding: 0 0.625em;
 }
 h1,
 h2,
@@ -22,5 +22,5 @@ img{
 display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 700px;
+  width: 43.75;
 }
